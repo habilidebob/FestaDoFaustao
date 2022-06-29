@@ -1,0 +1,11 @@
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\bin\Debug\FestaDoFaustao.exe.config
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\bin\Debug\FestaDoFaustao.exe
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\bin\Debug\FestaDoFaustao.pdb
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.csproj.AssemblyReference.cache
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.csproj.SuggestedBindingRedirects.cache
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.Form1.resources
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.Properties.Resources.resources
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.csproj.GenerateResource.cache
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.csproj.CoreCompileInputs.cache
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.exe
+C:\Users\estevao.roliveira\Documents\UC12\FestaDoFaustao\FestaDoFaustao\obj\Debug\FestaDoFaustao.pdb
