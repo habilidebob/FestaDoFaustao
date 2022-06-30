@@ -21,14 +21,10 @@ namespace FestaDoFaustao
         }
 
         private void btnValidar_Click(object sender, EventArgs e)
-        {
+        { 
 
             int idade = Convert.ToInt32(nudIdade.Value);
-            if (nudIdade.Value.ToString().Length == 0)
-            {
-                btnLimpar.PerformClick();
-            }
-            else if (idade >= 18)
+            if (idade >= 18)
             {
                 lblResultado.Text = "Pode entrar!";
                 lblResultado.ForeColor = Color.Green;
